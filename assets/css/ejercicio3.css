@@ -1,0 +1,18 @@
+h2,p,
+.mensaje{
+    text-align: center;
+}
+
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.accion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: .5rem;
+}
